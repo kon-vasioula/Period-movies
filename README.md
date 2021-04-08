@@ -1,5 +1,5 @@
 # Period-movies
 
-*Pride and prejudice
-*Emma
-*North and south
+* Pride and prejudice
+* Emma
+* North and south
